@@ -20,4 +20,5 @@ The following diagram mirrors the overview diagram from the introduction and sho
 
 Tip: Print or open this diagram in a separate tab so you can refer to it as you build the code.
 
-a70aca8d4b737712.png
+![image](https://user-images.githubusercontent.com/68777214/204503075-21d542b6-9ef3-4062-ac3c-09ced4aaccbc.png)
+
